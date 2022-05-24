@@ -1,7 +1,7 @@
 #!/usr/bin/ sql
 
 """ 
-Copyright (c) 2021-2030, SIAA, DB del sistema de horarios ITSAT (http://itsalamo.edu.mx/)
+Copyright (c) 2021-2030, SIAA, DB del sistema de horarios IT (http://x/)
 The only permissions are for the institution's staff, both the SQL code and the Database.
 """
 
